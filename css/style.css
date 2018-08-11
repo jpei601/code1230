@@ -515,6 +515,35 @@ p.m_8 {
 	text-align: center;
 	padding:0;
 }
+
+.resp-tab-item1{
+	border-left: 1px solid #CFCFCF;
+	color: #777;
+	font-size: 1em;
+	background:none;
+	text-transform: uppercase;
+	cursor: pointer;
+	padding: 12px 0;
+	display: inline-block;
+	border:0;
+	margin: 0;
+	text-align: center;
+	list-style: none;
+	display:inline-block;
+	width:18%;
+	outline: none;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+}
+.resp-tab-item1:hover {
+	background:#0687FF;
+	text-shadow: none;
+	color: #FFF;
+}
+
 .resp-tab-item{
 	border-left: 1px solid #CFCFCF;
 	color: #777;
