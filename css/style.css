@@ -175,25 +175,25 @@ nav a#pull {
 }
 
 .sliderarticle1{
-	background: url(../sydney1.jpg) no-repeat center top;
+	background: url(../images/sydney.jpg) no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	background-position: center;
 	background-size: 100% 100%;
-	height: 411px;
+	height: 500px;
 	width: 100%;
 }
 .sliderarticle2{
-	background: url(../tokyo2.jpg) no-repeat center top;
+	background: url(../images/tokyo.jpg) no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	background-position: center;
 	background-size: 100% 100%;
-	height: 411px;
+	height: 500px;
 	width: 100%;
 }
 
@@ -427,6 +427,10 @@ i.icon6:hover{
 .right_div {
 	width:48%;
 	float:right;
+}
+
+.img_small {
+	height:380px;
 }
 .border{
 	width:100%;
@@ -1369,8 +1373,13 @@ ul.tab1 h3 {
 }
 
 .resp-tab-item{
-	width:"19%"
+	width:"25%"
 }
+
+.img_small {
+	height:300px;
+}
+
 .wmuSlider.example1 {
 	height: 375px !important;
 }
@@ -1453,8 +1462,13 @@ p.m_14 {
 	height: 363px !important;
 }
 .resp-tab-item{
-	width:"22%"
+	width:"25%"
 }
+
+.img_small {
+	height:300px;
+}
+
 .header {
 	padding:0.5em 0;
 }
@@ -1473,8 +1487,13 @@ p.m_14 {
 	width:100%;
 	float: none;
 }
+
+.img_small {
+	height:250px;
+}
+
 .resp-tab-item{
-	width:"25%"
+	width:"30%"
 }
 .wmuSlider {
 	padding: 4em 0 0;
@@ -1503,7 +1522,11 @@ nav a#pull {
 }
 
 .resp-tab-item{
-	width:"30%"
+	width:"40%"
+}
+
+.img_small {
+	height:230px;
 }
 
 .wmuSlider.example1 {
